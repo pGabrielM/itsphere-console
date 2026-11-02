@@ -9,7 +9,7 @@ export function Logo({ compact = false, dark = false }: { compact?: boolean; dar
       </svg>
       {!compact && (
         <span className={`font-mono text-[15px] font-semibold tracking-tight ${dark ? 'text-white' : 'text-zinc-900'}`}>
-          ops<span className="text-brand-400">/</span>sphere
+          it<span className="text-brand-400">/</span>sphere
         </span>
       )}
     </span>
