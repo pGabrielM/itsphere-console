@@ -69,7 +69,7 @@ export function Landing({ content }: { content: LandingContent }) {
                   <span className="size-2 rounded-full bg-red-400/80" />
                   <span className="size-2 rounded-full bg-amber-400/80" />
                   <span className="size-2 rounded-full bg-emerald-400/80" />
-                  <span className="ml-3 font-mono text-[10px] text-zinc-500">opsphere / visão geral</span>
+                  <span className="ml-3 font-mono text-[10px] text-zinc-500">itsphere / visão geral</span>
                 </div>
                 <Image
                   src={content.screenshot.src}

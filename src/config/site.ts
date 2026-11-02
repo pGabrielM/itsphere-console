@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: 'Op Sphere',
+  name: 'ItSphere',
   shortTagline: 'central de operações para times de TI',
   tagline: 'Tudo o que o plantão precisa às 3 da manhã, em um só lugar.',
   description:
@@ -9,7 +9,7 @@ export const siteConfig = {
     'Runbooks em Markdown ligados aos serviços',
     'Incidentes com severidade, linha do tempo e post-mortem',
   ],
-  repositoryUrl: 'https://github.com/pGabrielM/opsphere-console',
+  repositoryUrl: 'https://github.com/pGabrielM/itsphere-console',
   author: { name: 'Gabriel Miranda', url: 'https://www.letinfo.dev' },
   demo: { email: 'demo@opsphere.dev', password: 'demo1234' },
 }
