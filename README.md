@@ -1,6 +1,6 @@
-# Op Sphere
+# ItSphere
 
-![CI](https://github.com/pGabrielM/opsphere-console/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/pGabrielM/itsphere-console/actions/workflows/ci.yml/badge.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Prisma_7-4169E1?style=flat-square)
@@ -12,7 +12,7 @@ post-mortems — plus a global `Ctrl+K` search to find any of it in seconds.
 
 ![Overview](public/screenshots/overview.png)
 
-**Live demo:** [opsphere.letinfo.dev/demo](https://opsphere.letinfo.dev/demo) — signs in straight to a sample account.
+**Live demo:** [itsphere.letinfo.dev/demo](https://itsphere.letinfo.dev/demo) — signs in straight to a sample account.
 
 > **Try it:** open the app and click **"Explorar com a conta demo"** — an e-commerce operations
 > workspace with 4 teams, 12 services, 6 runbooks and an ongoing incident.
@@ -65,7 +65,7 @@ npm run dev                       # http://localhost:3104
 ## History
 
 This repository started as a React/Vite console for the
-[opsphere-api](https://github.com/pGabrielM/opsphere-api) (sector → category → panel links).
+[itsphere-api](https://github.com/pGabrielM/itsphere-api) (sector → category → panel links).
 It was rebuilt as a full-stack Next.js app that keeps the original idea — organizing operational
 knowledge by area — and turns it into something a real on-call team can use.
 
